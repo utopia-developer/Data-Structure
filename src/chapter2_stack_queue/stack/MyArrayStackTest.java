@@ -1,4 +1,4 @@
-package chapter2_stack_queue;
+package chapter2_stack_queue.stack;
 
 public class MyArrayStackTest {
     public static void main(String[] args) {
