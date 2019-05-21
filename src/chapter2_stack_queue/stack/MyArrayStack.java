@@ -22,7 +22,7 @@ public class MyArrayStack<E> implements MyStack<E> {
      * 未知栈容量的情况下，创建容量为10的栈
      */
     public MyArrayStack() {
-        array = new MyArray<>(10);
+        array = new MyArray<>();
     }
 
     /**
