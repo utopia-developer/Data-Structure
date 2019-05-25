@@ -11,5 +11,13 @@ public class MyLinkedListTest {
         System.out.println(linkedList);
         linkedList.addLast(100);
         System.out.println(linkedList);
+
+        System.out.println("=========================================");
+        linkedList.remove(4);
+        System.out.println(linkedList);
+        linkedList.removeFirst();
+        System.out.println(linkedList);
+        linkedList.removeLast();
+        System.out.println(linkedList);
     }
 }

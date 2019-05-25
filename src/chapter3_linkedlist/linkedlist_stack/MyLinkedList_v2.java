@@ -1,4 +1,4 @@
-package chapter3_linkedlist.linkedlist;
+package chapter3_linkedlist.linkedlist_stack;
 
 /**
  * 使用虚拟头节点（dummy head）实现链表
